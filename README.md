@@ -13,7 +13,7 @@ Keil|软件编程
 
 
 ## 目录说明
-
+````
 +——Marine craft
 |---- 3D model: 【设计文档】
 |----+ hardware:【电路设计】  
@@ -24,7 +24,7 @@ Keil|软件编程
 |---+ software:【软件设计】
 |       ├──Craft
 |       ├──remoted
-
+````
 
 ## Hardware
 - [x] 一体化红外接收盘
