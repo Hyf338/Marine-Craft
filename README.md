@@ -14,15 +14,25 @@ Keil|软件编程
 
 ## 目录说明
 +——Marine craft
+
 |---- 3D model: 【设计文档】
+
 |----+ hardware:【电路设计】  
+
 |       ├──Control V1.0【主控板】
+
 |       ├──Control V2.0【主控电路板-最终版】
+
 |       ├──Infrared reception【红外接收盘】
+
 |       ├──Power Transfer【临时电源转接】
+
 |---+ software:【软件设计】
+
 |       ├──Craft
+
 |       ├──remoted
+
 
 ## Hardware
 - [x] 一体化红外接收盘
