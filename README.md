@@ -1,6 +1,8 @@
 ﻿# JMU_ETA_Fly on The Sea
-[test]
-@[TOC](目录：)
+
+<p align="center">
+  <a href="https://img.shields.io/badge/language-C-brigreen.svg?style=flat-square"><img src="https://img.shields.io/badge/language-C-brigreen.svg?style=flat-square" alt="C"></a>
+</p>
 
 ## 简介
 2019集大电协 海洋航行器
@@ -51,18 +53,8 @@ Keil|软件编程
 OLED|DC -- B6. RES -- B7 . D1 -- B8 . D0 -- B9
 
 - 航行器主控板模块流程图
-```mermaid gantt
-graph LR
-A[6V电源] -- 升压 --> B[12V电源]
-A --稳压--> C[5V电源]
-C --> D[红外]
-C --> E[舵机]
-C --稳压--> F[3.3V电源]
-F-->G[芯片供电]
-B -->H[驱动芯片]
-H -->I[PWM驱动]
-```
 
+![主控板](/Docs/pictures/Controller Board.png "主控板")
 
 
 
