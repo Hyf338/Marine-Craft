@@ -22,10 +22,9 @@ Keil|软件编程
 |       ├──Infrared reception【红外接收盘】
 |       ├──Power Transfer【临时电源转接】
 |---+ software:【软件设计】
-|       ├──Craft
-|       ├──remoted
+|       ├──Craft【航行器程序】
+|       ├──remoted【遥控器调试】
 ````
-
 ## Hardware
 - [x] 一体化红外接收盘
 - [x]  船舶主控板
@@ -63,6 +62,10 @@ F-->G[芯片供电]
 B -->H[驱动芯片]
 H -->I[PWM驱动]
 ```
+
+
+
+
 
 
 
