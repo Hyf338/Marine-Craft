@@ -27,6 +27,13 @@ Keil|软件编程
 |       ├──Craft【航行器程序】
 |       ├──remoted【遥控器调试】
 ````
+
+## 3D model
+- 红外屏蔽罩3D模型设计
+![3D信号屏蔽罩](/Docs/Pictures/infrared.png "信号屏蔽罩")
+
+
+
 ## Hardware
 - [x] 一体化红外接收盘
 - [x]  船舶主控板
@@ -53,7 +60,7 @@ Keil|软件编程
 OLED|DC -- B6. RES -- B7 . D1 -- B8 . D0 -- B9
 
 - 航行器主控板模块流程图
-
+![流程图](/Docs/Pictures/fow.png "流程图")
 ![主控板](/Docs/Pictures/Controller-Board.png "主控板")
 
 
