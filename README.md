@@ -1,4 +1,4 @@
-﻿# JMU_ETA_Fly on The Sea
+﻿﻿# JMU_ETA_Fly on The Sea
 
 <p align="center">
   <a href="https://img.shields.io/badge/language-C-brigreen.svg?style=flat-square"><img src="https://img.shields.io/badge/language-C-brigreen.svg?style=flat-square" alt="C"></a>
@@ -30,14 +30,11 @@ Keil|软件编程
 
 ## 3D model
 - 红外屏蔽罩3D模型设计
-
 ![3D信号屏蔽罩](/Docs/Pictures/infrared.png "信号屏蔽罩")
 
 
 
 ## Hardware
-- [x] 一体化红外接收盘
-- [x]  船舶主控板
 - 主控与外设描述
 
 硬件     | 描述
@@ -60,13 +57,21 @@ Keil|软件编程
 电机|TIM3_CH1 --B4 .   TIM3_CH2 -- B5
 OLED|DC -- B6. RES -- B7 . D1 -- B8 . D0 -- B9
 
+
+- [x]  船舶主控板
+
 - 航行器主控板模块流程图
 
-![流程图](/Docs/Pictures/flow.png "流程图")
+![流程图](/Docs/Pictures/fow.png "流程图")
+
+- 航行器主控板
+
 ![主控板](/Docs/Pictures/Controller-Board.png "主控板")
 
 
+- [x] 一体化红外接收盘
 
+![一体化红外接收盘](/Docs/Pictures/Infrared-Board.png "一体化红外接收盘")
 
 
 
