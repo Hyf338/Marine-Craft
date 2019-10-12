@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\AD\´¬Ä£Ö÷¿Ø°å\Control\Control2.PcbDoc
+Date         : 2019/3/17
+Time         : 16:33:21
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 214
+    Connections routed, 214
+    Connections remaining, 0
+count : 4

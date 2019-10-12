@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C8-2
+Removed Pin From Net: NetName=AHS Pin=P8-1
+Removed Pin From Net: NetName=BHS Pin=P8-2
+Removed Pin From Net: NetName=IN_6V Pin=P9-1
+Removed Pin From Net: NetName=GND Pin=P9-2
+Removed Member From Class: ClassName=Control Member=C2
+Removed Member From Class: ClassName=Control Member=C8
+Removed Member From Class: ClassName=Control Member=R1
+Removed Member From Class: ClassName=Control Member=Y
+Change Component Footprint: Designator=P9 Old Footprint=HEAT-2 New Footprint=HDR1X2
+Change Component Footprint: Designator=P3 Old Footprint=拔插式接线端子-3PIN New Footprint=MX 1.25-WI-3P
+Change Component Comment : Designator=P9 Old Comment=总电源 New Comment=电源
+Added Component: Designator=P11(HDR1X2)
+Added Component: Designator=XTAL(三脚贴片8M晶振)
+Added Pin To Net: NetName=M_6V Pin=P8-1
+Added Pin To Net: NetName=M_6V Pin=P8-2
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=IN_6V Pin=P9-2
+Added Pin To Net: NetName=BHS Pin=P11-1
+Added Pin To Net: NetName=AHS Pin=P11-2
+Added Pin To Net: NetName=GND Pin=XTAL-3
+Added Pin To Net: NetName=NetU_5 Pin=U-5
+Added Pin To Net: NetName=NetU_5 Pin=XTAL-2
+Added Net: Name=NetU_5
+Added Pin To Net: NetName=NetU_6 Pin=U-6
+Added Pin To Net: NetName=NetU_6 Pin=XTAL-1
+Added Net: Name=NetU_6
+Added Member To Class: ClassName=Control Member=Component P11 Header 2
+Added Member To Class: ClassName=Control Member=Component XTAL 
+Added Room: Name=Control

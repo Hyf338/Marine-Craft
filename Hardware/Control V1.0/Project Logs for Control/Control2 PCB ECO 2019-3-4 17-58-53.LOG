@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=RX_8 Pin=U2-50
+Change Component Comment : Designator=LED3 Old Comment=3V3 New Comment=LED3
+Change Component Comment : Designator=LED2 Old Comment=6V New Comment=LED2
+Change Component Comment : Designator=LED1 Old Comment=12V New Comment=LED3
+Change Component Comment : Designator=C16 Old Comment=100uf New Comment=Cap Pol SMT G
+Change Component Comment : Designator=JMU1 Old Comment=JMU New Comment=LOGO(JMU)
+Change Component Comment : Designator=¸´Î»°´¼ü1 Old Comment=RESET New Comment=Á½½ÅÌùÆ¬
+Added Pin To Net: NetName=RX_8 Pin=U2-29

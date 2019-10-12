@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=R8 Old Footprint=0805C New Footprint=0603C
+Change Component Footprint: Designator=R10 Old Footprint=0805C New Footprint=0603C
+Added Room: Name=Control

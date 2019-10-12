@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=VCC Pin=C20-2
+Removed Pin From Net: NetName=VCC Pin=P11-1
+Removed Pin From Net: NetName=GND Pin=P11-2
+Removed Pin From Net: NetName=PA15 Pin=U2-23
+Removed Pin From Net: NetName=PWM2 Pin=U2-26
+Removed Pin From Net: NetName=PWM1 Pin=U2-27
+Change Component Footprint: Designator=P11 Old Footprint=Header 2 New Footprint=Header 3
+Added Component: Designator=S?(5Öá°´¼ü)
+Added Pin To Net: NetName=5V Pin=C11-1
+Added Pin To Net: NetName=5V Pin=C13-2
+Added Pin To Net: NetName=VCC Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=IN_6V Pin=P11-1
+Added Pin To Net: NetName=VCC Pin=P11-2
+Added Pin To Net: NetName=GND Pin=P11-3
+Added Pin To Net: NetName=K1 Pin=S?-1
+Added Pin To Net: NetName=K2 Pin=S?-2
+Added Pin To Net: NetName=K3 Pin=S?-3
+Added Pin To Net: NetName=K4 Pin=S?-4
+Added Pin To Net: NetName=K5 Pin=S?-5
+Added Pin To Net: NetName=AGND Pin=S?-6
+Added Pin To Net: NetName=PWM2 Pin=U2-56
+Added Pin To Net: NetName=PWM1 Pin=U2-57
+Added Pin To Net: NetName=5V Pin=U3-3
+Added Pin To Net: NetName=5V Pin=U3-4
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Pin To Net: NetName=SEVOR Pin=U2-15
+Added Net: Name=SEVOR
+Added Member To Class: ClassName=Control Member=Component S? °´¼ü

@@ -1,0 +1,4 @@
+Added Component: Designator=P12(Header 2)
+Added Pin To Net: NetName=GND Pin=P12-1
+Added Pin To Net: NetName=IN_6V Pin=P12-2
+Added Member To Class: ClassName=Control Member=Component P12 Header 2

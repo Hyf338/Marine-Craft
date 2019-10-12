@@ -1,0 +1,5 @@
+Added Component: Designator=XTAL1(Èý½ÅÌùÆ¬8M¾§Õñ)
+Added Pin To Net: NetName=NetU2_6 Pin=XTAL1-1
+Added Pin To Net: NetName=NetU2_5 Pin=XTAL1-2
+Added Pin To Net: NetName=GND Pin=XTAL1-3
+Added Member To Class: ClassName=Control Member=Component XTAL1 

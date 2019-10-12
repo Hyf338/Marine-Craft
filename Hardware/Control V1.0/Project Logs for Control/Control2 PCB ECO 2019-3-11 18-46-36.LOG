@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=VCC Pin=C18-1
+Removed Pin From Net: NetName=M_6V Pin=D1-2
+Removed Pin From Net: NetName=M_6V Pin=D2-2
+Removed Pin From Net: NetName=3V3 Pin=P7-7
+Removed Pin From Net: NetName=M_6V Pin=P12-1
+Removed Pin From Net: NetName=VCC Pin=P12-2
+Removed Pin From Net: NetName=GND Pin=P12-3
+Removed Pin From Net: NetName=VCC Pin=R10-1
+Removed Pin From Net: NetName=M_6V Pin=T1-2
+Removed Pin From Net: NetName=M_6V Pin=T2-2
+Removed Pin From Net: NetName=VCC Pin=U5-6
+Removed Pin From Net: NetName=VCC Pin=总电源开关1-2
+Removed Pin From Net: NetName=M_6V Pin=总电源开关1-3
+Removed Member From Class: ClassName=Control Member=P12
+Removed Member From Class: ClassName=Control Member=T42
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X2 New Footprint=接线端子
+Change Component Footprint: Designator=P10 Old Footprint=HDR1X2 New Footprint=接线端子
+Change Component Designator: OldDesignator=P7 NewDesignator=P6
+Change Component Designator: OldDesignator=P8 NewDesignator=P7
+Change Component Designator: OldDesignator=P9 NewDesignator=P8
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Designator: OldDesignator=P11 NewDesignator=P10
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=T1 NewDesignator=T3
+Change Component Designator: OldDesignator=T2 NewDesignator=T4
+Change Component Designator: OldDesignator=T3 NewDesignator=T7
+Change Component Designator: OldDesignator=T4 NewDesignator=T8
+Change Component Designator: OldDesignator=T41 NewDesignator=T5
+Change Component Designator: OldDesignator=T42 NewDesignator=T1
+Added Component: Designator=P11(Header 2)
+Added Component: Designator=T2(0805LED(BLUE))
+Added Component: Designator=T6(0805LED(BLUE))
+Added Pin To Net: NetName=M_6V Pin=C18-1
+Added Pin To Net: NetName=IN_6V Pin=D1-2
+Added Pin To Net: NetName=IN_6V Pin=D2-2
+Added Pin To Net: NetName=5V Pin=P6-7
+Added Pin To Net: NetName=M_6V Pin=P11-1
+Added Pin To Net: NetName=IN_6V Pin=P11-2
+Added Pin To Net: NetName=M_6V Pin=R10-1
+Added Pin To Net: NetName=NetR2_2 Pin=T2-1
+Added Pin To Net: NetName=AHO Pin=T2-2
+Added Pin To Net: NetName=IN_6V Pin=T3-2
+Added Pin To Net: NetName=IN_6V Pin=T4-2
+Added Pin To Net: NetName=NetR7_2 Pin=T6-1
+Added Pin To Net: NetName=ALO Pin=T6-2
+Added Pin To Net: NetName=M_6V Pin=U5-6
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Yellow
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(255, 110, 110)
+Added Member To Class: ClassName=Control Member=Component P11 Header 2
+Added Member To Class: ClassName=Control Member=Component T6 LED
+Added Member To Class: ClassName=Control Member=Component T7 IRLR7843
+Added Member To Class: ClassName=Control Member=Component T8 IRLR7843

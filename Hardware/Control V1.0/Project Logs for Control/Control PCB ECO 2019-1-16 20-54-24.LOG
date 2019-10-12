@@ -1,0 +1,9 @@
+Added Component: Designator=LED5(0805LED)
+Added Component: Designator=R31(0805R)
+Added Pin To Net: NetName=3V3 Pin=LED5-1
+Added Pin To Net: NetName=GND Pin=R31-1
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R31-2
+Added Net: Name=NetLED5_2
+Added Member To Class: ClassName=Control Member=Component LED5 LED3
+Added Member To Class: ClassName=Control Member=Component R31 1K

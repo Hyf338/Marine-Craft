@@ -1,0 +1,18 @@
+Added Component: Designator=20(0805C)
+Added Component: Designator=JMU?(JMU_logo（1）)
+Added Component: Designator=KEY(贴片按键)
+Added Component: Designator=LOGO?(电协LOGO)
+Added Component: Designator=R32(0805R)
+Added Pin To Net: NetName=GND Pin=20-2
+Added Pin To Net: NetName=GND Pin=KEY-2
+Added Pin To Net: NetName=3V3 Pin=R32-2
+Added Pin To Net: NetName=KEY Pin=20-1
+Added Pin To Net: NetName=KEY Pin=KEY-1
+Added Pin To Net: NetName=KEY Pin=R32-1
+Added Pin To Net: NetName=KEY Pin=U-15
+Added Net: Name=KEY
+Added Member To Class: ClassName=Control Member=Component 20 104
+Added Member To Class: ClassName=Control Member=Component JMU? LOGO(JMU)
+Added Member To Class: ClassName=Control Member=Component KEY 两脚贴片
+Added Member To Class: ClassName=Control Member=Component LOGO? 电协LOGO
+Added Member To Class: ClassName=Control Member=Component R32 1K

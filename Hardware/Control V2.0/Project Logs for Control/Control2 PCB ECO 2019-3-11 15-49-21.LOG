@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=12V Pin=D1-2
+Removed Pin From Net: NetName=12V Pin=D2-2
+Removed Pin From Net: NetName=12V Pin=T1-2
+Removed Pin From Net: NetName=12V Pin=T2-2
+Added Component: Designator=总电源开关1(钮子开关（大）)
+Added Pin To Net: NetName=VCC Pin=总电源开关1-2
+Added Pin To Net: NetName=M_6V Pin=D1-2
+Added Pin To Net: NetName=M_6V Pin=D2-2
+Added Pin To Net: NetName=M_6V Pin=T1-2
+Added Pin To Net: NetName=M_6V Pin=T2-2
+Added Pin To Net: NetName=M_6V Pin=总电源开关1-3
+Added Net: Name=M_6V
+Added Member To Class: ClassName=Control Member=Component 总电源开关1 总电源开关

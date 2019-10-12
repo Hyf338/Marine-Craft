@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=RX_6 Pin=U2-42
+Removed Pin From Net: NetName=RX_7 Pin=U2-43
+Removed Pin From Net: NetName=USART1_TX Pin=U2-44
+Removed Pin From Net: NetName=USART1_RX Pin=U2-45
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=P8 NewDesignator=P9
+Change Component Designator: OldDesignator=P9 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P11
+Added Component: Designator=P2(Header 4)
+Added Pin To Net: NetName=5V Pin=P2-1
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=USART1_TX Pin=U2-42
+Added Pin To Net: NetName=USART1_RX Pin=U2-43
+Added Pin To Net: NetName=RX_6 Pin=U2-44
+Added Pin To Net: NetName=RX_7 Pin=U2-45
+Change Net Name : Old Net Name=NetP5_2 New Net Name=NetP6_2
+Change Net Name : Old Net Name=NetP5_5 New Net Name=NetP6_5
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Pin To Net: NetName=USART2_RX Pin=P2-2
+Added Pin To Net: NetName=USART2_RX Pin=U2-17
+Added Net: Name=USART2_RX
+Added Pin To Net: NetName=USART2_TX Pin=P2-3
+Added Pin To Net: NetName=USART2_TX Pin=U2-16
+Added Net: Name=USART2_TX
+Added Member To Class: ClassName=Control Member=Component P11 Header 2

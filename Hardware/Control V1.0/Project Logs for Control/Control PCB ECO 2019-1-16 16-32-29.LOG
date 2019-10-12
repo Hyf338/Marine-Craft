@@ -1,0 +1,4 @@
+Change Component Comment : Designator=复位按键 Old Comment=reset New Comment=两脚贴片
+Change Component Comment : Designator=P25 Old Comment=SWD New Comment=下载口
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Room: Name=Control

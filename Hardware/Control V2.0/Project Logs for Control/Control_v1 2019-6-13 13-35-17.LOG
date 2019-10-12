@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=P5 Old Footprint=FPC-4 New Footprint=Header 4
+Added Member To Class: ClassName=Control Member=Component C1 10uF
+Added Member To Class: ClassName=Control Member=Component C2 22uF
+Added Member To Class: ClassName=Control Member=Component C3 104
+Added Member To Class: ClassName=Control Member=Component C4 104
+Added Member To Class: ClassName=Control Member=Component C17 Cap Semi
+Added Member To Class: ClassName=Control Member=Component C18 100uF
+Added Member To Class: ClassName=Control Member=Component D5 *
+Added Member To Class: ClassName=Control Member=Component R10 0.22R
+Added Member To Class: ClassName=Control Member=Component R11 180R
+Added Member To Class: ClassName=Control Member=Component R14 1.5K
+Added Member To Class: ClassName=Control Member=Component U1 TPS7350
+Added Member To Class: ClassName=Control Member=Component U5 MC34063
+Added Room: Name=Control

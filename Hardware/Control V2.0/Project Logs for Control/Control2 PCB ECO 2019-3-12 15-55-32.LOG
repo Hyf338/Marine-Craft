@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=K4 Pin=S1-4
+Removed Pin From Net: NetName=K5 Pin=S1-5
+Added Pin To Net: NetName=K5 Pin=S1-4
+Added Pin To Net: NetName=K4 Pin=S1-5
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)

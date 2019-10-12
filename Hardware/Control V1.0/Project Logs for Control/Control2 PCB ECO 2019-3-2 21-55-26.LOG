@@ -1,0 +1,122 @@
+Removed Member From Class: ClassName=Control Member=C24
+Removed Member From Class: ClassName=Control Member=C25
+Removed Member From Class: ClassName=Control Member=D8
+Removed Member From Class: ClassName=Control Member=LED4
+Removed Member From Class: ClassName=Control Member=P25
+Removed Member From Class: ClassName=Control Member=R25
+Removed Member From Class: ClassName=Control Member=R27
+Removed Member From Class: ClassName=Control Member=R28
+Change Component Footprint: Designator=19 Old Footprint=0603C New Footprint=0805C
+Change Component Footprint: Designator=C17 Old Footprint=0603C New Footprint=0805C
+Change Component Footprint: Designator=C18 Old Footprint=0603C New Footprint=0805C
+Change Component Footprint: Designator=C19 Old Footprint=0603C New Footprint=0805C
+Change Component Footprint: Designator=C20 Old Footprint=0603C New Footprint=0805C
+Change Component Comment : Designator=LED4 Old Comment=3V3 New Comment=LED3
+Change Component Comment : Designator=LED2 Old Comment=I_6V New Comment=LED2
+Change Component Comment : Designator=LED1 Old Comment=M_6V New Comment=LED3
+Change Component Comment : Designator=复位按键 Old Comment=RESET New Comment=两脚贴片
+Change Component Comment : Designator=P25 Old Comment=SWD New Comment=下载口
+Change Component Designator: OldDesignator=19 NewDesignator=1
+Change Component Designator: OldDesignator=C3 NewDesignator=C15
+Change Component Designator: OldDesignator=C5 NewDesignator=C17
+Change Component Designator: OldDesignator=C6 NewDesignator=C18
+Change Component Designator: OldDesignator=C7 NewDesignator=C19
+Change Component Designator: OldDesignator=C9 NewDesignator=C1
+Change Component Designator: OldDesignator=C10 NewDesignator=C2
+Change Component Designator: OldDesignator=C11 NewDesignator=C3
+Change Component Designator: OldDesignator=C12 NewDesignator=C4
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Change Component Designator: OldDesignator=C14 NewDesignator=C12
+Change Component Designator: OldDesignator=C15 NewDesignator=C13
+Change Component Designator: OldDesignator=C16 NewDesignator=C14
+Change Component Designator: OldDesignator=C17 NewDesignator=C9
+Change Component Designator: OldDesignator=C18 NewDesignator=C10
+Change Component Designator: OldDesignator=C19 NewDesignator=C7
+Change Component Designator: OldDesignator=C20 NewDesignator=C8
+Change Component Designator: OldDesignator=C24 NewDesignator=C5
+Change Component Designator: OldDesignator=C25 NewDesignator=C6
+Change Component Designator: OldDesignator=D2 NewDesignator=D5
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=D4 NewDesignator=D2
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D3
+Change Component Designator: OldDesignator=D8 NewDesignator=D4
+Change Component Designator: OldDesignator=JMU? NewDesignator=JMU1
+Change Component Designator: OldDesignator=KEY NewDesignator=KEY1
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED1
+Change Component Designator: OldDesignator=LOGO? NewDesignator=LOGO1
+Change Component Designator: OldDesignator=P3 NewDesignator=P7
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P6 NewDesignator=P5
+Change Component Designator: OldDesignator=P8 NewDesignator=P1
+Change Component Designator: OldDesignator=P8_1 NewDesignator=P9
+Change Component Designator: OldDesignator=P10 NewDesignator=P2
+Change Component Designator: OldDesignator=P12 NewDesignator=P8
+Change Component Designator: OldDesignator=P25 NewDesignator=P4
+Change Component Designator: OldDesignator=P NewDesignator=P6
+Change Component Designator: OldDesignator=R6 NewDesignator=R10
+Change Component Designator: OldDesignator=R7 NewDesignator=R11
+Change Component Designator: OldDesignator=R8 NewDesignator=R1
+Change Component Designator: OldDesignator=R9 NewDesignator=R2
+Change Component Designator: OldDesignator=R10 NewDesignator=R3
+Change Component Designator: OldDesignator=R11 NewDesignator=R4
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R6
+Change Component Designator: OldDesignator=R17 NewDesignator=R7
+Change Component Designator: OldDesignator=R18 NewDesignator=R8
+Change Component Designator: OldDesignator=R19 NewDesignator=R9
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R22 NewDesignator=R19
+Change Component Designator: OldDesignator=R23 NewDesignator=R17
+Change Component Designator: OldDesignator=R24 NewDesignator=R18
+Change Component Designator: OldDesignator=R25 NewDesignator=R20
+Change Component Designator: OldDesignator=R26 NewDesignator=R5
+Change Component Designator: OldDesignator=R27 NewDesignator=R16
+Change Component Designator: OldDesignator=R28 NewDesignator=R21
+Change Component Designator: OldDesignator=R30 NewDesignator=R22
+Change Component Designator: OldDesignator=T2 NewDesignator=T1
+Change Component Designator: OldDesignator=T3 NewDesignator=T2
+Change Component Designator: OldDesignator=T4 NewDesignator=T3
+Change Component Designator: OldDesignator=T5 NewDesignator=T4
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U6 NewDesignator=U3
+Change Component Designator: OldDesignator=U NewDesignator=U2
+Change Component Designator: OldDesignator=XTAL NewDesignator=XTAL1
+Change Component Designator: OldDesignator=复位按键 NewDesignator=复位按键1
+Change Component Designator: OldDesignator=总电源开关 NewDesignator=总电源开关1
+Change Component Designator: OldDesignator=电机电源开关 NewDesignator=电机电源开关1
+Added Component: Designator=C16(RB.8)
+Added Pin To Net: NetName=12V Pin=C16-1
+Added Pin To Net: NetName=S_GND Pin=C16-2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC17_1
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC5_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=NetLED2_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=NetLED3_2
+Change Net Name : Old Net Name=NetLED4_2 New Net Name=NetLED1_2
+Change Net Name : Old Net Name=NetP6_2 New Net Name=NetP5_2
+Change Net Name : Old Net Name=NetP6_5 New Net Name=NetP5_5
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR16_2 New Net Name=NetR6_2
+Change Net Name : Old Net Name=NetR17_2 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetU_5 New Net Name=NetU2_5
+Change Net Name : Old Net Name=NetU_6 New Net Name=NetU2_6
+Added Member To Class: ClassName=Control Member=Component C16 Cap Pol SMT G
+Added Member To Class: ClassName=Control Member=Component C17 Cap Semi
+Added Member To Class: ClassName=Control Member=Component C18 100uF
+Added Member To Class: ClassName=Control Member=Component D7 *
+Added Member To Class: ClassName=Control Member=Component LED3 LED2
+Added Member To Class: ClassName=Control Member=Component P7 舵机
+Added Member To Class: ClassName=Control Member=Component R10 0.22R
+Added Member To Class: ClassName=Control Member=Component R11 180R
+Added Member To Class: ClassName=Control Member=Component R24 1K

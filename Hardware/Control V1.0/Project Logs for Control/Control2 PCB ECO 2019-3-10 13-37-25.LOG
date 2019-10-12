@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=C11-1
+Removed Pin From Net: NetName=5V Pin=C13-2
+Removed Pin From Net: NetName=5V Pin=P7-7
+Removed Pin From Net: NetName=PWM2 Pin=U2-56
+Removed Pin From Net: NetName=PWM1 Pin=U2-57
+Removed Pin From Net: NetName=5V Pin=U3-3
+Removed Pin From Net: NetName=5V Pin=U3-4
+Added Pin To Net: NetName=3V3 Pin=P7-7
+Added Pin To Net: NetName=PWM2 Pin=U2-26
+Added Pin To Net: NetName=PWM1 Pin=U2-27
+Added Pin To Net: NetName=+5V Pin=C11-1
+Added Pin To Net: NetName=+5V Pin=C13-2
+Added Pin To Net: NetName=+5V Pin=U3-3
+Added Pin To Net: NetName=+5V Pin=U3-4
+Added Net: Name=+5V

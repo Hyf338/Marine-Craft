@@ -1,0 +1,9 @@
+Change Component Comment : Designator=LED3 Old Comment=3V3 New Comment=LED3
+Change Component Comment : Designator=LED2 Old Comment=6V New Comment=LED2
+Change Component Comment : Designator=LED1 Old Comment=12V New Comment=LED3
+Added Component: Designator=C20(0805C)
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VCC Pin=C20-2
+Added Pin To Net: NetName=VCC Pin=P10-1
+Added Pin To Net: NetName=GND Pin=P10-2
+Added Member To Class: ClassName=Control Member=Component C20 104

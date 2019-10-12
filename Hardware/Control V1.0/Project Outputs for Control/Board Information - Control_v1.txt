@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\dell\Desktop\JMU_ETA_Fly-on-The-Sea\´¬Ä£Ö÷¿Ø°å\Control\Control_v1.1.PcbDoc
+Date         : 2019/6/20
+Time         : 21:29:51
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 204
+    Connections routed, 204
+    Connections remaining, 0
+count : 4

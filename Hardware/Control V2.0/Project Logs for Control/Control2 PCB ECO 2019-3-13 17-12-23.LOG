@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=S_GND Pin=R23-1
+Added Pin To Net: NetName=AGND Pin=R23-1

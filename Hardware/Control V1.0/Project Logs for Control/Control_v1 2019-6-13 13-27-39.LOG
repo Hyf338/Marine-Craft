@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IN_6V Pin=LED3-1
+Removed Pin From Net: NetName=AGND Pin=P8-5
+Removed Pin From Net: NetName=AGND Pin=P8-6
+Removed Pin From Net: NetName=AGND Pin=P8-7
+Removed Pin From Net: NetName=AGND Pin=P8-8
+Removed Member From Class: ClassName=Control Member=P8
+Change Component Footprint: Designator=P5 Old Footprint=Header 4 New Footprint=FPC-4
+Added Pin To Net: NetName=VCC Pin=LED3-1

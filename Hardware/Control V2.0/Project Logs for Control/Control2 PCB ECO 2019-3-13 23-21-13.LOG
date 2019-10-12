@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=3V3 Pin=P5-1
+Removed Pin From Net: NetName=SWDIO Pin=P5-2
+Removed Pin From Net: NetName=SWCLK Pin=P5-3
+Removed Pin From Net: NetName=GND Pin=P5-4
+Added Pin To Net: NetName=SWDIO Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P5-2
+Added Pin To Net: NetName=3V3 Pin=P5-3
+Added Pin To Net: NetName=SWCLK Pin=P5-4

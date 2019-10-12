@@ -1,0 +1,8 @@
+Added Component: Designator=C3(0805C)
+Added Component: Designator=C7(0805C)
+Added Pin To Net: NetName=BHS Pin=C3-1
+Added Pin To Net: NetName=BHB Pin=C3-2
+Added Pin To Net: NetName=AHB Pin=C7-1
+Added Pin To Net: NetName=AHS Pin=C7-2
+Added Member To Class: ClassName=Control Member=Component C3 Cap Semi
+Added Member To Class: ClassName=Control Member=Component C7 Cap Semi

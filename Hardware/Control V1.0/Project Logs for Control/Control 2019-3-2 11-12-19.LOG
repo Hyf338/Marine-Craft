@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=IN_6V Pin=power-2
+Removed Pin From Net: NetName=PA15 Pin=U-50
+Added Pin To Net: NetName=PA15 Pin=U-23

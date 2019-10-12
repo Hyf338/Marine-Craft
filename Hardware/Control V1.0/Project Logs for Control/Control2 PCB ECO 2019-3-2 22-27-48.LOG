@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=12V Pin=LED1-1
+Added Member To Class: ClassName=Control Member=Component R16 0R
+Added Member To Class: ClassName=Control Member=Component R21 1K

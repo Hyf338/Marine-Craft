@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=P6-5
+Removed Pin From Net: NetName=GND Pin=P9-1
+Removed Pin From Net: NetName=GND Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=GND Pin=R18-1
+Added Component: Designator=R25(0805R)
+Added Pin To Net: NetName=GND Pin=R25-2
+Change Net Name : Old Net Name=GND New Net Name=DGND
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=P6-5
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=R18-1
+Added Pin To Net: NetName=GND Pin=R25-1
+Added Net: Name=GND
+Added Member To Class: ClassName=Control Member=Component R25 0R

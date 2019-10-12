@@ -1,0 +1,5 @@
+Change Component Comment : Designator=总电源开关 Old Comment=总电源 New Comment=总电源开关
+Change Component Comment : Designator=电机电源开关 Old Comment=电机 New Comment=电机电源开关
+Added Pin To Net: NetName=PWM1 Pin=U4-3
+Added Pin To Net: NetName=PWM2 Pin=U4-4
+Added Room: Name=Control

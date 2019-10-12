@@ -1,0 +1,12 @@
+Added Component: Designator=P?(FPC-10)
+Added Pin To Net: NetName=IN_6V Pin=P?-1
+Added Pin To Net: NetName=IN_6V Pin=P?-2
+Added Pin To Net: NetName=VCC Pin=P?-3
+Added Pin To Net: NetName=VCC Pin=P?-4
+Added Pin To Net: NetName=VCC Pin=P?-5
+Added Pin To Net: NetName=M_6V Pin=P?-6
+Added Pin To Net: NetName=M_6V Pin=P?-7
+Added Pin To Net: NetName=GND Pin=P?-8
+Added Pin To Net: NetName=GND Pin=P?-9
+Added Pin To Net: NetName=GND Pin=P?-10
+Added Member To Class: ClassName=Control Member=Component P? FPC-10

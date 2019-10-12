@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USART1_RX Pin=P4-3
+Removed Pin From Net: NetName=USART1_TX Pin=P4-4
+Removed Pin From Net: NetName=IN_6V Pin=power-2
+Added Pin To Net: NetName=USART1_TX Pin=P4-3
+Added Pin To Net: NetName=USART1_RX Pin=P4-4

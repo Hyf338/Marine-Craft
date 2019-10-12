@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=RX_1 Pin=U-20
+Removed Pin From Net: NetName=RX_2 Pin=U-21
+Removed Pin From Net: NetName=RX_3 Pin=U-22
+Removed Pin From Net: NetName=RX_4 Pin=U-23
+Added Pin To Net: NetName=RX_1 Pin=U-35
+Added Pin To Net: NetName=RX_2 Pin=U-36
+Added Pin To Net: NetName=RX_3 Pin=U-37
+Added Pin To Net: NetName=RX_4 Pin=U-38
+Added Room: Name=Control

@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R16 Old Footprint=0603C New Footprint=0805C
+Added Component: Designator=LED4(0805LED)
+Added Component: Designator=R30(0805R)
+Added Pin To Net: NetName=3V3 Pin=LED4-1
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R30-2
+Added Net: Name=NetLED4_2
+Added Member To Class: ClassName=Control Member=Component LED4 LED3
+Added Member To Class: ClassName=Control Member=Component R30 1K

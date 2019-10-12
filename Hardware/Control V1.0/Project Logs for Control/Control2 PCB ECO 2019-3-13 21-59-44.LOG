@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=AGND Pin=R22-1
+Change Component Comment : Designator=LOGO1 Old Comment=电协 New Comment=电协LOGO
+Added Pin To Net: NetName=GND Pin=R22-1

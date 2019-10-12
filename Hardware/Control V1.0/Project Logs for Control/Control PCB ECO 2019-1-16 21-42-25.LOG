@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=M_6V Pin=P8-1
+Removed Pin From Net: NetName=M_6V Pin=P8-2
+Removed Member From Class: ClassName=Control Member=P8
+Change Component Comment : Designator=P11 Old Comment=µç»ú New Comment=Header 2
+Added Room: Name=Control

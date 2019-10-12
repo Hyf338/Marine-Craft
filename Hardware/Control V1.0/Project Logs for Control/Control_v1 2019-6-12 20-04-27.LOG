@@ -1,0 +1,11 @@
+Added Component: Designator=P8(拨码开关(4位直插))
+Added Pin To Net: NetName=B1 Pin=P8-1
+Added Pin To Net: NetName=B2 Pin=P8-2
+Added Pin To Net: NetName=B3 Pin=P8-3
+Added Pin To Net: NetName=B4 Pin=P8-4
+Added Pin To Net: NetName=AGND Pin=P8-5
+Added Pin To Net: NetName=AGND Pin=P8-6
+Added Pin To Net: NetName=AGND Pin=P8-7
+Added Pin To Net: NetName=AGND Pin=P8-8
+Added Member To Class: ClassName=Control Member=Component P8 拨码
+Added Room: Name=Control

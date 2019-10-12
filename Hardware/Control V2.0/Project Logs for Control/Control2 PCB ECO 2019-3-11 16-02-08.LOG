@@ -1,0 +1,6 @@
+Added Component: Designator=P12(Header 3)
+Added Pin To Net: NetName=M_6V Pin=P12-1
+Added Pin To Net: NetName=VCC Pin=P12-2
+Added Pin To Net: NetName=GND Pin=P12-3
+Added Member To Class: ClassName=Control Member=Component P12 Header 3
+Added Member To Class: ClassName=Control Member=Component 总电源开关1 总电源开关

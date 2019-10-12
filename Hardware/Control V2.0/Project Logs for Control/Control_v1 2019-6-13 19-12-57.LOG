@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=AGND Pin=R22-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Member To Class: ClassName=Control Member=Component P3 OLED

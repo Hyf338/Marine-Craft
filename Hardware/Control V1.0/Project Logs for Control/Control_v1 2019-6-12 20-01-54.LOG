@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=R5 Old Footprint=0603R New Footprint=0805R
+Added Component: Designator=P6(FPC-10)
+Added Pin To Net: NetName=RX_1 Pin=P6-1
+Added Pin To Net: NetName=RX_2 Pin=P6-2
+Added Pin To Net: NetName=RX_3 Pin=P6-3
+Added Pin To Net: NetName=RX_4 Pin=P6-4
+Added Pin To Net: NetName=GND Pin=P6-5
+Added Pin To Net: NetName=RX_5 Pin=P6-6
+Added Pin To Net: NetName=5V Pin=P6-7
+Added Pin To Net: NetName=RX_6 Pin=P6-8
+Added Pin To Net: NetName=RX_7 Pin=P6-9
+Added Pin To Net: NetName=RX_8 Pin=P6-10
+Added Member To Class: ClassName=Control Member=Component P6 FPC-10
+Added Room: Name=Control

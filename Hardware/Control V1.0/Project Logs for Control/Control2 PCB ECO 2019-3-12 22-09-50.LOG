@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=AGND Pin=P7-1
+Removed Pin From Net: NetName=SEVOR Pin=P7-3
+Added Pin To Net: NetName=SEVOR Pin=P7-1
+Added Pin To Net: NetName=AGND Pin=P7-3

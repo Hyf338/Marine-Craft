@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=P_GND Pin=R24-1
+Added Pin To Net: NetName=AGND Pin=R24-1
+Added Room: Name=Control

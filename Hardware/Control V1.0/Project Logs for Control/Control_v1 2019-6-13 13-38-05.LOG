@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=5V Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=P4-2
+Removed Pin From Net: NetName=USART1_RX Pin=P4-3
+Removed Pin From Net: NetName=USART1_TX Pin=P4-4
+Change Component Footprint: Designator=P4 Old Footprint=Header 4 New Footprint=Header 6
+Change Component Comment : Designator=P4 Old Comment=А¶СА New Comment=Header 6
+Change Component Designator: OldDesignator=P? NewDesignator=P8
+Added Pin To Net: NetName=5V Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=USART1_RX Pin=P4-4
+Added Pin To Net: NetName=USART1_TX Pin=P4-5

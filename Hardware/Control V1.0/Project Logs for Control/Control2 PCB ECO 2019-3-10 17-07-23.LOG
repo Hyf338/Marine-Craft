@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3 Pin=P6-1
+Removed Pin From Net: NetName=GND Pin=P6-3
+Removed Pin From Net: NetName=3V3 Pin=P6-4
+Removed Pin From Net: NetName=GND Pin=P6-6
+Removed Member From Class: ClassName=Control Member=P6
+Added Component: Designator=T41(0805LED(BLUE))
+Added Component: Designator=T42(0805LED(BLUE))
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=GND Pin=R20-1
+Added Pin To Net: NetName=NetR6_2 Pin=T41-1
+Added Pin To Net: NetName=BLO Pin=T41-2
+Added Pin To Net: NetName=NetR1_2 Pin=T42-1
+Added Pin To Net: NetName=BHO Pin=T42-2
+Added Member To Class: ClassName=Control Member=Component T41 LED
+Added Member To Class: ClassName=Control Member=Component T42 LED

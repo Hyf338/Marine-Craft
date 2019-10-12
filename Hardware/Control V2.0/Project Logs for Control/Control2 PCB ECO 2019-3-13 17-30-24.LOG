@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=总电源开关1-2
+Removed Pin From Net: NetName=IN_6V Pin=总电源开关1-3
+Added Pin To Net: NetName=VCC Pin=总电源开关1-1
+Added Pin To Net: NetName=IN_6V Pin=总电源开关1-2

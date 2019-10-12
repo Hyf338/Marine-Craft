@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=VCC Pin=D3-2
+Removed Pin From Net: NetName=VCC Pin=D4-2
+Removed Pin From Net: NetName=M_6V Pin=P11-1
+Removed Pin From Net: NetName=GND Pin=P11-2
+Removed Pin From Net: NetName=VCC Pin=T2-2
+Removed Pin From Net: NetName=VCC Pin=T3-2
+Removed Pin From Net: NetName=M_6V Pin=电机电源开关-2
+Removed Pin From Net: NetName=VCC Pin=电机电源开关-3
+Removed Member From Class: ClassName=Control Member=P11
+Change Component Footprint: Designator=R23 Old Footprint=0603R New Footprint=0805R
+Change Component Footprint: Designator=R24 Old Footprint=0603R New Footprint=0805R
+Change Component Comment : Designator=R23 Old Comment=10M New Comment=10K
+Change Component Comment : Designator=R24 Old Comment=10M New Comment=10K
+Added Pin To Net: NetName=M_6V Pin=D3-2
+Added Pin To Net: NetName=M_6V Pin=D4-2
+Added Pin To Net: NetName=M_6V Pin=T2-2
+Added Pin To Net: NetName=M_6V Pin=T3-2
+Added Pin To Net: NetName=VCC Pin=电机电源开关-2
+Added Pin To Net: NetName=M_6V Pin=电机电源开关-3
+Added Room: Name=Control
