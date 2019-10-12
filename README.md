@@ -1,4 +1,4 @@
-﻿﻿# JMU_ETA_Fly on The Sea
+﻿# JMU_ETA_Fly on The Sea
 
 <p align="center">
   <a href="https://img.shields.io/badge/language-C-brigreen.svg?style=flat-square"><img src="https://img.shields.io/badge/language-C-brigreen.svg?style=flat-square" alt="C"></a>
@@ -30,6 +30,7 @@ Keil|软件编程
 
 ## 3D model
 - 红外屏蔽罩3D模型设计
+
 ![3D信号屏蔽罩](/Docs/Pictures/infrared.png "信号屏蔽罩")
 
 
@@ -74,5 +75,14 @@ OLED|DC -- B6. RES -- B7 . D1 -- B8 . D0 -- B9
 
 
 
-## Keil
+## Software
 
+### 两种模式
+
+- [x] 自动追踪模式
+- [x] 遥控模式
+- 数据包通信协议
+| 编号 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 
+| --- | --- | --- | --- | --- | --- | --- | 
+| 数据所代表的含义 | 模式位 | 包头 | 包头 | 数据长度位 | 舵机 | 电机 | 校验 | 
+| 说明 | 1-遥控、0-追踪 | AA | 55 | 2 | Servo | Motor | 累加 |
