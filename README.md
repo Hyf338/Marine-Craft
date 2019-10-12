@@ -54,7 +54,7 @@ OLED|DC -- B6. RES -- B7 . D1 -- B8 . D0 -- B9
 
 - 航行器主控板模块流程图
 
-![主控板](/Docs/Pictures/Controller Board.png "主控板")
+![主控板](/Docs/Pictures/Controller-Board.png "主控板")
 
 
 
