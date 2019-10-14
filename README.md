@@ -94,9 +94,9 @@ OLED|DC -- B6. RES -- B7 . D1 -- B8 . D0 -- B9
 
 ### 船模
 
-![航行器](/Docs/Pictures/Craft.png "航行器")
+![航行器](/Docs/Pictures/Craft.jpg "航行器")
 
 ### 遥控器
 
-![遥控器](/Docs/Pictures/Remote.png "遥控器")
+![遥控器](/Docs/Pictures/Remote.jpg "遥控器")
 
