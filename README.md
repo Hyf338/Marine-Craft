@@ -101,6 +101,3 @@ OLED|DC -- B6. RES -- B7 . D1 -- B8 . D0 -- B9
 
 ![遥控器](/Docs/Pictures/Remote.jpg "遥控器")
 
-
-
-![给赞](/Docs/Pictures/zan.png "赞赏是最好的支持")
